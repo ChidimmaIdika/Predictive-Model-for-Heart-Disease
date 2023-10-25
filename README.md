@@ -37,4 +37,4 @@ Leveraging a diverse set of machine learning algorithms, this predictive model a
 Contributions to this project are welcome. If you have ideas for enhancements or bug fixes, please create a pull request with a clear description of the proposed changes.
 
 ## Contact:
-For questions, suggestions, or collaborations, feel free to **[send me an email](chidimmaidika@gmail.com)** 
+For questions, suggestions, or collaborations, feel free to **[send me an email](chidimmaidika@gmail.com)**
